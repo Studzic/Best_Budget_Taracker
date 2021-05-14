@@ -6,11 +6,10 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#Contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 - [Functionality](#functionality)
-- [Link](#link)
+
 ## Description
 This is an application that allows the user to track their incoming and outgoing purchases while on and offline!
 ## Installation
@@ -32,4 +31,4 @@ This README was generated with ❤️ by [README-generator](https://github.com/S
 ## Functionality
 
 ![2021-05-14 (2)](https://user-images.githubusercontent.com/72447285/118257975-4961f400-b47d-11eb-9320-613b6c1b47af.png)
-
+[Deployed Link!](https://mysterious-island-62467.herokuapp.com/)
